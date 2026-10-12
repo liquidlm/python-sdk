@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "release": "python",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "8618d0465cca76cab3939cc7851f909c655a2ed7d9b743657700ba46045a5d6e"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "8ebbf927226f044dc9385f80ef23dc5c3ffd85f1adad5adee1d8e62e160c7b72"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "0b2e097a790500e8988de9f3b309efdcab610706a906e4be93e7ff9c3937db37"
+    },
+    {
+      "path": "README.md",
+      "sha256": "a8895c9b028c7871fce4b94087800bfa6ef056b3b7e431c3b0dfb946811f039a"
+    },
+    {
+      "path": "contract/manifest.json",
+      "sha256": "6e9030ebec9fe40640fb3f04def62782604bdc5ee362e4d05b0825cd935ebec3"
+    },
+    {
+      "path": "contract/openapi.json",
+      "sha256": "39c9bd00960c130f9c36874d67c8ff81a3d0492fd676c3691136e8c28d8cbb5e"
+    },
+    {
+      "path": "examples/async_ingest_search.py",
+      "sha256": "a94ee220cc1ad921752a6a09a0792ef9b9e6a524986c71addb91f95897330006"
+    },
+    {
+      "path": "examples/sync_ingest_search.py",
+      "sha256": "e28a600579a49769e417a6db56aaa1b406d175f018bf199707658a8885d1820b"
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "ba59b0e2bcfc75bb3565832748f5d296ad8f17f62d99600ce9b1d8df4999c33f"
+    },
+    {
+      "path": "scripts/generate_models.py",
+      "sha256": "f2a82a0429286cd5f9ea92c0e417c87b976a47280ce1e9b4584c6969bf733c6d"
+    },
+    {
+      "path": "src/liquidlm/__init__.py",
+      "sha256": "9144198c1bf9ddbfbc8b8e46993ffd4e3fc9dd2acd579aa1305819965ef3ee71"
+    },
+    {
+      "path": "src/liquidlm/_pagination.py",
+      "sha256": "49ad0284043194d4640a9bc5ef6bde2c7a0a1e4d9b0995412f76992c3443316d"
+    },
+    {
+      "path": "src/liquidlm/_sse.py",
+      "sha256": "928e0b5e357e9954a759370fe1bbe1b93e60c58d8f629ca1ee6ed9925243655b"
+    },
+    {
+      "path": "src/liquidlm/client.py",
+      "sha256": "104aa41bf1b418439f9256a1eb753cbea0d374b310e2b86bb93be65eff4a5b3f"
+    },
+    {
+      "path": "src/liquidlm/errors.py",
+      "sha256": "6dc9d63165b1071e350b15c044ae4ef9a1e4acf43a81da9537963ddf6d14b485"
+    },
+    {
+      "path": "src/liquidlm/models.py",
+      "sha256": "792a3bab031de2295602d335bda835168217ff51a29a7b756fb658a19ac1f429"
+    },
+    {
+      "path": "src/liquidlm/py.typed",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/liquidlm/uploads.py",
+      "sha256": "1d20cd20c6dd0aa14d8fc3d5e504b4bb546099d01f5d96d05c762db2b666d34c"
+    },
+    {
+      "path": "tests/test_async.py",
+      "sha256": "6820c6b9c34e13ab2ce087120cf3363c12468aee3fd78af0524735f991bff10d"
+    },
+    {
+      "path": "tests/test_client.py",
+      "sha256": "950fca99f0dc6f9e95b610e0bc895040aa2d80aaac0c77fb636ab1a89d4b931b"
+    },
+    {
+      "path": "tests/test_contract.py",
+      "sha256": "c5b1e597622818d502182ac8f3704bfde6d1e97f9fc8a58d20ca41bb65f001b0"
+    },
+    {
+      "path": "tests/test_uploads.py",
+      "sha256": "0a8d119903c741f598142a6e515e020288f2f67f6c82f3a7fe1a6cfa32610d0c"
+    },
+    {
+      "path": "uv.lock",
+      "sha256": "c9386bb3037e68d7737a5a92c6163803acab47bb397cff0e841da162c4b60670"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug.md",
+      "sha256": "97c418fdb28c444fec9e11637e35b6a2c56ac2b98d49e210d58846778254610c"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "sha256": "634342f0d6cece075956040222cc5dedf41e2e52d386ec0f85655e9e601cda1d"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "sha256": "1dd75e022754987dc8f4d6548dfb870536d349cb618af66fa65924a98ee9b011"
+    },
+    {
+      "path": ".prettierrc.json",
+      "sha256": "8716864481d07567034cf3fc22857c11fb5c7232e9ffb3ec405ed89f277ab4ed"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "sha256": "8c68a24704efb5e381cba8e9b58c7d8f26df08a4bde49a9dab620b5e8de8ea4d"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "42588b30f3caa018fe7f633446ee7f9c5088776083fab951f18333088c6a96d1"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "674694819dd4a146a86e271c9c1df0df7dd962722da6e40ae1d6bb370eef1c1c"
+    },
+    {
+      "path": "SUPPORT.md",
+      "sha256": "6c377cddbdc38158cef1a78ea25d9f5f4315e101a38559f1d15f7ff4afa641da"
+    }
+  ]
+}

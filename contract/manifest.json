@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "openapiSha256": "39c9bd00960c130f9c36874d67c8ff81a3d0492fd676c3691136e8c28d8cbb5e",
+  "source": "Pinned public API contract snapshot; drift-checked at generation time",
+  "python": {
+    "requires": ">=3.11",
+    "models": "src/liquidlm/models.py (generated)"
+  }
+}
