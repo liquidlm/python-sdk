@@ -15,3 +15,11 @@ push to this repository.
 Use semver for API-affecting changes; document credential or configuration
 migrations explicitly. Browser/JavaScript usage is out of scope for this SDK;
 use the TypeScript client there.
+
+## Release policy
+
+Same policy as the TypeScript clients: semver for API-affecting changes,
+prerelease line support (newest alpha gets fixes), explicit deprecation
+warnings for at least one minor line, and immutable published versions with
+deprecate-and-supersede rollback. Contract snapshots pin across the
+TypeScript/Python pair — a contract change releases both together.
